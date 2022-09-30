@@ -14,3 +14,5 @@ It is important to note that *any* overlap in inviduals between the discovery (G
 Tutorial paper (PGS in general): Choi, S.W., Mak, T.SH. & O’Reilly, P.F. Tutorial: a guide to performing polygenic risk score analyses. Nat Protoc 15, 2759–2772 (2020). https://doi.org/10.1038/s41596-020-0353-1 
 
 SBayesR reference: Lloyd-Jones, L.R., Zeng, J., Sidorenko, J. et al. Improved polygenic prediction by Bayesian multiple regression on summary statistics. Nat Commun 10, 5086 (2019). https://doi.org/10.1038/s41467-019-12653-0
+
+Lecture on PGS: https://play.ki.se/media/GWAS_sumstats_PGS/0_lt7j6708
